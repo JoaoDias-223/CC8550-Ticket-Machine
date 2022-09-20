@@ -6,6 +6,7 @@ package br.calebe.ticketmachine.core;
  */
 public class PapelMoeda {
 
+    /* Erro 10 [código] - Na doc, os atributos da classe são privados */
     protected int valor;
     protected int quantidade;
 
